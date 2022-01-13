@@ -16,4 +16,4 @@ For changes, please submit your change in a branch and open a pull request.
 
 ## Copyright
 
-2015-2017 Digital Dream Labs, Inc.
+2019-2022 Digital Dream Labs, Inc.
