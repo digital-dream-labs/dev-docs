@@ -1,0 +1,10 @@
+# editor turds
+*.swp
+*~
+
+# mac Finder turds
+.DS_Store
+
+# Unity turds
+*.orig
+
